@@ -3,7 +3,7 @@
     "pins": [
       {
         "package": "WebsiteBuilder",
-        "repositoryURL": "https://github.com/raywenderlich/spm-tutorial.git",
+        "repositoryURL": "https://github.com/danielleal2901/spm-tutorial.git",
         "state": {
           "branch": null,
           "revision": "04136e97a73b826528dd077c3ebab07d9f8f48e2",
